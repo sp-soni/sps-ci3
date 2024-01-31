@@ -1,8 +1,8 @@
 <?php
 
-namespace SPS;
+namespace SPSCI3;
 
-class Form extends SPS
+class Form extends SPSCI3
 {
 
     private static function arrayToAttribute(array $aAttribute)

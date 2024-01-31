@@ -1,7 +1,7 @@
 <?php
 
-namespace SPS;
+namespace SPSCI3;
 
-abstract class SPS
+abstract class SPSCI3
 {
 }

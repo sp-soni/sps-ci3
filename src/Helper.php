@@ -1,8 +1,8 @@
 <?php
 
-namespace SPS;
+namespace SPSCI3;
 
-class Helper extends SPS
+class Helper extends SPSCI3
 {
     public static function selectedSelect($left, $right)
     {

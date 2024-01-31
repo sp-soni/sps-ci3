@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "name": "spsoni/htmlform",
-  "description": "Generate HTML Form Elements using php",
+  "name": "sps/ci",
+  "description": "Helper files for Codeigniter3.x",
   "type": "library",
   "minimum-stability": "stable",
   "prefer-stable": true,
