@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "name": "spsoni/htmlform",
+  "description": "Generate HTML Form Elements using php",
+  "type": "library",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "license": "MIT",
+  "require": {
+    "php": "^8.0",
+    "phpoffice/phpspreadsheet": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "SPS\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Sheetala Prasad Soni",
+      "email": "spsoni.se@gmail.com"
+    }
+  ]
+}
